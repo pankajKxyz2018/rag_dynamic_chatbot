@@ -201,6 +201,23 @@ Through this project I learned:
 * Prompt Engineering
 * Gemini Integration
 
+  ## Project Screenshots
+
+### Project Structure
+![Project Structure](screenshots/project_structure.png)
+
+### Application Startup
+![Application Startup](screenshots/application_start.png)
+
+### User Query
+![User Query](screenshots/user_query.png)
+
+### Retrieved Chunks
+![Retrieved Chunks](screenshots/retrieved_chunks.png)
+
+### Final Answer
+![Final Answer](screenshots/final_answer.png)
+
 ---
 
 ## Future Improvements
